@@ -71,9 +71,9 @@
     <!-- Product Start -->
     <div class="container-xxl py-5">
         <div class="container">
-            <div class="row g-0 gx-5 align-items-end">
+            <div class="row g-0 gx-5 align-items-center">
                 <div class="col-lg-6 text-start text-lg-end wow slideInCenter" data-wow-delay="0.1s">
-                    <ul class="nav nav-pills d-inline-flex justify-content-end mb-5">
+                    <ul class="produk nav nav-pills d-inline-flex justify-content-center mb-5" style="position: relative">
                         <li class="nav-item me-2">
                             <a class="btn btn-outline-primary border-2 active" data-bs-toggle="pill" href="#tab-1">Makanan</a>
                         </li>
